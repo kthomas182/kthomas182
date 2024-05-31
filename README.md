@@ -9,7 +9,7 @@
 - The development team consisted of a hybrid onshore/offshore/vendor team.
 
 ## Essilor CORE Components
-- Developed custsom core components and core styles that are built and deployed to a private NPM repository for developers to include as a package in every Angular framework application they build. 
+- Developed custom core components and core styles that are built and deployed to a private NPM repository for developers to include as a package in every Angular framework application they build. 
 - This core package is currently in 5 applications in production or currently in development.
 - Example of some of the components:
 	- Global toolbar with dynamic styling, logo, menu that is a responsive component.
