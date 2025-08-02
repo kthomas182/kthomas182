@@ -3,7 +3,7 @@
 ## EssilorLuxottica OneSight – Voucher Portal(s)
 - ReactJS Monorepo portal project leveraging storybook, cypress, and shared component library to build multiple B2B/B2C portals in the same codebase with independent build/test/deploy pipelines. 
 
-## Essilor PRO (www.essilorpro.com)
+## Essilor PRO
 - Single application to access all the Provider’s business program, order status, statements and invoicing, resources, training, and products.
 - Angular v14 mobile/tablet/desktop application leveraging Azure ADB2C with IntraID SSO.
 - The development team consisted of a hybrid onshore/offshore/vendor team.
