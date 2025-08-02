@@ -5,7 +5,7 @@
 
 ## Essilor PRO (www.essilorpro.com)
 - Single application to access all the Provider’s business program, order status, statements and invoicing, resources, training, and products.
-- Angular 13 mobile/tablet/desktop application leveraging Okta SSO.
+- Angular v14 mobile/tablet/desktop application leveraging Azure ADB2C with IntraID SSO.
 - The development team consisted of a hybrid onshore/offshore/vendor team.
 
 ## Essilor CORE Components
@@ -40,7 +40,8 @@ Multi-million-dollar tenant portal application to manage benefits for ordering s
 ## Refresh/Returns Management App
 - Customer portal application that allows users to return their eyeglass frames from their refresh kit and process the RMA/Shipping label for the user.
 - Leverage the same components to allow an external user from various portal applications to return any type of eyeglass frame following the same process as the refresh kit.
-My Eye Doctor - MYLINK
+
+## My Eye Doctor - MYLINK
 - External application for eye care professionals to view all open, delayed, needs attention, and completed orders.
 - ECPs can upload corrected frame trace files for proper invoicing details.
 - Extended the initial phase 1 application to allow more fine grain authorization at various component level functionality.
